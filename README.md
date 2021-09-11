@@ -2,8 +2,8 @@
 This Project Include the Data Analysis and Machine Learning Algorithms Implementation in PySpark as well as Simple Python using Sklearn
 
 ### Technologies and Platform Used 
-1. Python
-2. Spark
+1. Python (SMOT)
+2. Spark (BALANCING using Weights)
 3. SMOT to balance the Imbalanced Dataset
 4. Machine Learning Algorithms ( Random Forest - Decision Tree )
 5. DataBricks for PySpark Project
